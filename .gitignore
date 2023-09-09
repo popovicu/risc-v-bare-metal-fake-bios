@@ -4,5 +4,6 @@
 # Except
 !hello\.s
 !hello\.ld
+!Makefile
 !README.md
 !.gitignore
